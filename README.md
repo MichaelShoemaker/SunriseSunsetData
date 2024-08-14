@@ -15,5 +15,5 @@ Copy the Data Table into the code and run the cells to create a dataframe of the
 Adjust the year in the code as necessary</br>
 ![Adjust Year](./images/AdjustYear.png)
 
-That is all I say GOOD DAY SIR! :-) </br>
+That is all I say good day sir. :-) </br>
 ![Good Day](./images/GoodDay.png)
